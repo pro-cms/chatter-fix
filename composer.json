@@ -33,6 +33,7 @@
 	    "psr-4": {
 	        "Chatter\\Core\\": "src/"
 		}
+	    
 	},
     "autoload-dev": {
         "psr-4": {
