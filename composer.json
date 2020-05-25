@@ -1,5 +1,5 @@
 {
-    "name": "chatter-laravel/core",
+    "name": "nova73-alt/chatter-fix",
     "description": "A simple forum package for your laravel app",
     "license": "MIT",
     "authors": [
@@ -13,7 +13,6 @@
         "laravel/framework": "^5.8 || ^6 || ^7",
         "laravel/passport": "^7 || ^8",
         "mews/purifier": "^3.1",
-        "laravel-frontend-presets/tailwindcss": "^4.1",
 
         "cviebrock/eloquent-sluggable": "^4 || ^6"
 
@@ -33,6 +32,7 @@
 	    "psr-4": {
 	        "Chatter\\Core\\": "src/"
 		}
+	    
 	},
     "autoload-dev": {
         "psr-4": {
